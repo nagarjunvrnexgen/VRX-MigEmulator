@@ -1,0 +1,8 @@
+*.ipynb
+__pycache__/
+data/
+*.sftl
+*.srl
+*.kmp
+srl_to_sftl.py 
+.env
